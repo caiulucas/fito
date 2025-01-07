@@ -13,8 +13,8 @@ zebra.mp4
 After running `fito` you gonna have the following output:
 ```txt
 jpg files
-   aloevera.jpg
-   potato.jpg
+  aloevera.jpg
+  potato.jpg
 gif files
   frodo.gif
   gandalf.gif
